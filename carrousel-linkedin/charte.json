@@ -1,0 +1,44 @@
+{
+  "_lisez_moi": "Charte graphique et éditoriale du carrousel. Elle est remplie à l'installation (voir INSTALL.md). Par défaut : la charte de la newsletter Hallu World.",
+  "personnalisee": false,
+  "signature": "Hallu World_",
+  "logo": null,
+  "couleurs": {
+    "fond": "#F7F3E8",
+    "texte": "#000000",
+    "texte_secondaire": "#555555",
+    "discret": "#CCCCCC",
+    "encadre": "#EEEDDF",
+    "accents": ["#cb0a33", "#E8A317"]
+  },
+  "police": {
+    "nom": "Space Grotesk",
+    "normal": "polices/space-grotesk-400.ttf",
+    "moyen": "polices/space-grotesk-500.ttf",
+    "gras": "polices/space-grotesk-700.ttf"
+  },
+  "style": {
+    "bordure": 4,
+    "coins": "carres",
+    "titres_majuscules": true
+  },
+  "invite_defilement": "glissez pour lire",
+  "ton": {
+    "registre": "piquant",
+    "consignes": "Lucide et un brin ironique face à la hype, mais toujours adossé aux faits de l'article. Des phrases courtes et construites, jamais de jargon non expliqué.",
+    "phrases_choc": true
+  },
+  "slide_finale": {
+    "active": true,
+    "accroche": "Ce carrousel a été fabriqué avec un skill de",
+    "nom": "HALLU WORLD",
+    "description": "La newsletter hebdomadaire gratuite sur l'IA générative.",
+    "slogan": "Fascinés par l'IA, consternés par ce qu'on en fait.",
+    "lien": "halluworld.fr"
+  },
+  "post_linkedin": {
+    "proposer": true,
+    "lien": "",
+    "hashtags": 3
+  }
+}
